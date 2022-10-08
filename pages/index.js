@@ -19,7 +19,7 @@ export default function Home() {
       <main className={styles.main}>
         
         <h1 className={styles.title}>
-        Hi, I'm <a href="https://horacio-abitu.vercel.app">Horacio!</a>
+        Hi, I am <a href="https://horacio-abitu.vercel.app">Horacio!</a>
         </h1>
 
         <p className={styles.description}>
